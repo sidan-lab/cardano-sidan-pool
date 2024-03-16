@@ -1,0 +1,7 @@
+{
+  "name": "SIDAN Lab",
+  "description": "SIDAN Lab - Unleash impactful blockchain use-cases",
+  "ticker": "SIDAN",
+  "homepage": "https://sidan.io",
+  "extended": "https://raw.githubusercontent.com//sidan-lab/cardano-sidan-pool/master/extended.json"
+}

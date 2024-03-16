@@ -1,0 +1,17 @@
+{
+  "info": {
+    "url_png_icon_64x64": "https://raw.githubusercontent.com//sidan-lab/cardano-sidan-pool/master/icon.png",
+    "url_png_logo": "https://raw.githubusercontent.com//sidan-lab/cardano-sidan-pool/master/logo.png",
+    "social": {
+      "twitter_handle": "sidan-lab",
+      "telegram_handle": "sidan-lab",
+      "github_handle": "sidan-lab"
+    }
+  },
+  "my-pool-ids": {
+    "0": "a915178a0195af9166fccd42a69407f1af109faf64c3c409ab2790ec"
+  },
+  "telegram-admin-handle": {
+    "0": "SIDANWhatever"
+  }
+}
